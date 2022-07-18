@@ -1,10 +1,8 @@
 # Recipe Blog - Using Node.js and MongoDB
 
-![GitHub Logo](https://raddy.dev/wp-content/uploads/2021/09/recipe-blog-nodejs-mongoose.jpg)
-
 ### Tech
 
-For frontend I used EJS and CSS. For backend I used Node.js and MongoDB.
+For frontend I used EJS and CSS. For backend I used Node.js, Express and MongoDB.
 
 ## Create .env file
 
